@@ -32,6 +32,7 @@
                 {{ content }}
 
                 {% include pagination-post.html %}
+                {% include share.html %}
             </article>
 
             {% if site.two_columns_layout %}
@@ -57,7 +58,6 @@
                     </ul>
                 </aside>
             {% endif %}
-        {% include share.html %}
         </section>
 
         <!-- Add time bar only for pages without pagination -->
