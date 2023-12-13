@@ -1,8 +1,7 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Solutips
+title: Solutips | Easy tutorial for Everyone
+description: Solutips is a blog for guide everyone to do something on easy ways
 tags:
   - blog
   - template
